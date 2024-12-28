@@ -11,7 +11,11 @@ Este documento te guiará a ejecutar satisfactoriamente el código de la present
     ```bash
     git clone https://github.com/javierazd1305/esan-mlops-intro-2501.git
     ```
-3. Instalar dependencias
+3. Ingresar al ambiente virtual (se tiene que crear un previamente)
+    ```bash
+    source .venv/bin/activate
+    ```
+4. Instalar dependencias
     ```bash
     pip install -r requirements.txt
     ```
